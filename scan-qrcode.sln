@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "scan-qrcode", "scan-qrcode\scan-qrcode.csproj", "{56665DDC-3E16-41BF-9C4D-5EA59E66BDCA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QRCode", "QRCode\QRCode.csproj", "{2A198023-BEEA-4C07-B79C-9CBCE0AE50AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CaptureImageTool", "C:\Users\wei\Desktop\CaptureImageToolDemo\CaptureImageToolDemo\CaptureImageTool\CaptureImageTool.csproj", "{13E62362-5D00-418F-83FF-99B2699746D7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{56665DDC-3E16-41BF-9C4D-5EA59E66BDCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56665DDC-3E16-41BF-9C4D-5EA59E66BDCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56665DDC-3E16-41BF-9C4D-5EA59E66BDCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56665DDC-3E16-41BF-9C4D-5EA59E66BDCA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A198023-BEEA-4C07-B79C-9CBCE0AE50AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A198023-BEEA-4C07-B79C-9CBCE0AE50AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A198023-BEEA-4C07-B79C-9CBCE0AE50AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A198023-BEEA-4C07-B79C-9CBCE0AE50AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13E62362-5D00-418F-83FF-99B2699746D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13E62362-5D00-418F-83FF-99B2699746D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13E62362-5D00-418F-83FF-99B2699746D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13E62362-5D00-418F-83FF-99B2699746D7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
