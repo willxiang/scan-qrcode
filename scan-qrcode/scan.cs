@@ -15,9 +15,8 @@ namespace scan_qrcode
         public scan()
         {
             InitializeComponent();
-
             capture();
-            //this.Load += Form1_Load;
+            this.Close();
         }
 
         //void Form1_Load(object sender, EventArgs e)

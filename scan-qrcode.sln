@@ -1,13 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
-VisualStudioVersion = 12.0.40629.0
+VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "scan-qrcode", "scan-qrcode\scan-qrcode.csproj", "{56665DDC-3E16-41BF-9C4D-5EA59E66BDCA}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QRCode", "QRCode\QRCode.csproj", "{2A198023-BEEA-4C07-B79C-9CBCE0AE50AB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CaptureImageTool", "C:\Users\wei\Desktop\CaptureImageToolDemo\CaptureImageToolDemo\CaptureImageTool\CaptureImageTool.csproj", "{13E62362-5D00-418F-83FF-99B2699746D7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CaptureImageTool", "CaptureImageToolDemo\CaptureImageTool\CaptureImageTool.csproj", "{13E62362-5D00-418F-83FF-99B2699746D7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

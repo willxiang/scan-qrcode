@@ -15,7 +15,7 @@ namespace scan_qrcode
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            
+
 
 
             Application.SetUnhandledExceptionMode(UnhandledExceptionMode.CatchException);
@@ -23,9 +23,7 @@ namespace scan_qrcode
             Application.ThreadException += Application_ThreadException;
 
             AppDomain.CurrentDomain.UnhandledException += new UnhandledExceptionEventHandler(CurrentDomain_UnhandledException);
-            Application.Run(new scan());
-            //Application.ApplicationExit += new EventHandler(Application_ApplicationExit);
-
+            scan s = new scan();
             Application.Exit();
         }
 
